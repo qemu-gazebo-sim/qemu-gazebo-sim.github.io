@@ -1,10 +1,21 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
-theme: just-the-docs
+title: QEMU Gazebo Sim
+# description: A starter template for a Jeykll site using the Just the Docs theme!
+# theme: just-the-docs
 
-url: https://qemu-gazebo-sim.github.io
+# url: https://qemu-gazebo-sim.github.io
 
-aux_links: # remove if you don't want this link to appear on your pages
-  Template Repository: https://github.com/qemu-gazebo-sim/qemu-gazebo-sim.github.io
+# aux_links: # remove if you don't want this link to appear on your pages
+#   Template Repository: https://github.com/qemu-gazebo-sim/just-the-docs
 
 
+#########
+
+remote_theme: "qemu-gazebo-sim/just-the-docs"
+
+# color_scheme: autodark
+
+# logo: https://static.thunderatz.org/teamassets/logo-simples-sf-amarelo.png
+
+# aux_links:
+#   "Bixes on GitHub":
+#     - "//ps-thunderatz.github.io/bixes_1_fase/"
