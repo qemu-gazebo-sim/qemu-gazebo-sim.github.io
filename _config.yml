@@ -14,7 +14,7 @@ remote_theme: "qemu-gazebo-sim/just-the-docs"
 
 # color_scheme: autodark
 
-logo: https://github.com/qemu-gazebo-sim/qemu-gazebo-sim.github.io/assets/main_symbol.png
+logo: https://github.com/qemu-gazebo-sim/qemu-gazebo-sim.github.io/blob/main/assets/main_symbol.png
 
 aux_links:
   "QEMU Gazebo Sim on GitHub":
