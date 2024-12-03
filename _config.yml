@@ -8,8 +8,8 @@ url: https://qemu-gazebo-sim.github.io
 
 logo: https://raw.githubusercontent.com/qemu-gazebo-sim/qemu-gazebo-sim.github.io/main/assets/main_symbol.png
 
-favicon_ico: https://raw.githubusercontent.com/qemu-gazebo-sim/qemu-gazebo-sim.github.io/main/assets/favicon.ico
+favicon_ico: "https://raw.githubusercontent.com/qemu-gazebo-sim/qemu-gazebo-sim.github.io/main/assets/favicon.ico"
 
 aux_links:
     "QEMU Gazebo Sim on GitHub":
-        - "//qemu-gazebo-sim.github.io"
+        - "https://github.com/qemu-gazebo-sim/qemu-gazebo-sim.github.io"
