@@ -3,7 +3,7 @@ description: QEMU Gazebo Sim Bachelor Thesis template for a Jeykll site using th
 theme: just-the-docs
 
 # remote_theme: "qemu-gazebo-sim/just-the-docs"
-
+url: https://qemu-gazebo-sim.github.io
 color_scheme: dark
 
 logo: https://raw.githubusercontent.com/qemu-gazebo-sim/qemu-gazebo-sim.github.io/main/assets/main_symbol.png
