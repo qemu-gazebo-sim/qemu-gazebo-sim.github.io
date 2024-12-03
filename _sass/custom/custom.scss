@@ -1,0 +1,35 @@
+@media (min-width: 66.5rem) {
+    .side-bar {
+        width: auto;
+        & + .main {
+            @include mq(md) {
+                margin-left: 17.0rem;
+            }
+        }
+    }
+
+    .main {
+        width: auto;
+        max-width: 100%;
+    }
+
+    .main-content-wrap {
+        --block-width: 65%;
+        max-width: var(--block-width);
+        margin-left: calc((100% - var(--block-width)) / 2);
+    }
+    
+}
+
+.search-input {
+    color: #e6e1e8;
+}
+  
+h1 {
+    text-align: center;
+}
+  
+.main-content-wrap {
+    text-align: justify;
+    text-justify: inter-word;
+}

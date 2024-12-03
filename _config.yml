@@ -2,7 +2,7 @@ title: QEMU Gazebo Sim
 description: QEMU Gazebo Sim Bachelor Thesis template for a Jeykll site using the Just the Docs theme!
 
 remote_theme: "just-the-docs/just-the-docs@v0.10.0"
-color_scheme: dark
+color_scheme: neodark
 
 url: https://qemu-gazebo-sim.github.io
 
