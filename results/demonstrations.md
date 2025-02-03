@@ -8,13 +8,17 @@ has_toc: false
 
 ## 1️⃣ Test for motors command
 
-https://github.com/user-attachments/assets/a73cb836-4887-44a5-a5e8-89c586a725a9
+<!-- https://github.com/user-attachments/assets/a73cb836-4887-44a5-a5e8-89c586a725a9 -->
 
-The video can be watched on youtube by clicking [here](https://youtu.be/FsJWMptuWgY)
+[![](https://markdown-videos-api.jorgenkh.no/youtube/FsJWMptuWgY)](https://youtu.be/FsJWMptuWgY)
+
+<!-- The video can be watched on youtube by clicking [here](https://youtu.be/FsJWMptuWgY) -->
 
 ## 2️⃣ Test for distance sensors
 
-The video can be watched on youtube by clicking [here](https://youtu.be/31ghxB5zjZ0)
+[![](https://markdown-videos-api.jorgenkh.no/youtube/31ghxB5zjZ0)](https://youtu.be/31ghxB5zjZ0)
+
+<!-- The video can be watched on youtube by clicking [here](https://youtu.be/31ghxB5zjZ0) -->
 
 <!-- # 3️⃣ Test for encoders -->
 
@@ -22,5 +26,6 @@ The video can be watched on youtube by clicking [here](https://youtu.be/31ghxB5z
 
 ## 🎁 Bonus: Pioneer 2 (Robot used in the project) test
 
+[![](https://markdown-videos-api.jorgenkh.no/youtube/dj5ICpfwBbw)](https://youtu.be/dj5ICpfwBbw)
 
-The video can be watched on youtube by clicking [here](https://youtu.be/dj5ICpfwBbw)
+<!-- The video can be watched on youtube by clicking [here](https://youtu.be/dj5ICpfwBbw) -->
