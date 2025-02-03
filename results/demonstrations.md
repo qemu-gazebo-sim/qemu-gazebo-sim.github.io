@@ -6,7 +6,15 @@ has_children: false
 has_toc: false
 ---
 
-## 1️⃣ Test for motors command
+# 🚀 Project Demonstrations
+
+The proof of concept was established through the following tests:
+- Motor command
+- Distance sensor
+- Encoder data
+- Bonus: Pioneer 2 test
+
+## 1️⃣ Motor command
 
 <!-- https://github.com/user-attachments/assets/a73cb836-4887-44a5-a5e8-89c586a725a9 -->
 
@@ -14,17 +22,19 @@ has_toc: false
 
 <!-- The video can be watched on youtube by clicking [here](https://youtu.be/FsJWMptuWgY) -->
 
-## 2️⃣ Test for distance sensors
+## 2️⃣ Distance sensor
 
 [![](https://markdown-videos-api.jorgenkh.no/youtube/31ghxB5zjZ0)](https://youtu.be/31ghxB5zjZ0)
 
 <!-- The video can be watched on youtube by clicking [here](https://youtu.be/31ghxB5zjZ0) -->
 
-<!-- # 3️⃣ Test for encoders -->
+<!-- # 3️⃣ Encoder data -->
 
 <!-- # 4️⃣ Test for dodge -->
 
-## 🎁 Bonus: Pioneer 2 (Robot used in the project) test
+## 🎁 Bonus: Pioneer 2 test
+
+**Note**: Pioneer2 is the robot used in the project
 
 [![](https://markdown-videos-api.jorgenkh.no/youtube/dj5ICpfwBbw)](https://youtu.be/dj5ICpfwBbw)
 
