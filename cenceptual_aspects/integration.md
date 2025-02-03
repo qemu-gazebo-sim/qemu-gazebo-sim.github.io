@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Simulation Integration
-parent: Cenceptual Aspects
+title: 🔗 Simulation Integration
+parent: 📖 Cenceptual Aspects
 nav_order: 6
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Gazebo
-parent: Cenceptual Aspects
+title: 🤖 Gazebo
+parent: 📖 Cenceptual Aspects
 nav_order: 5
 ---
 

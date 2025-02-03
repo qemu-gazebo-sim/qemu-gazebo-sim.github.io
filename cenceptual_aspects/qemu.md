@@ -1,7 +1,7 @@
 ---
 layout: default
-title: QEMU
-parent: Cenceptual Aspects
+title: 🖥️ QEMU
+parent: 📖 Cenceptual Aspects
 nav_order: 3
 ---
 
